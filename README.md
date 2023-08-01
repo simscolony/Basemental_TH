@@ -9,7 +9,7 @@ Basemental Drag And Gang Thai localization
 [wickedwhimsmod](https://basementalcc.com/)
 
 # หากพบปัญหา แจ้งงานแปล
-## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
+## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://github.com/simscolony/Basemental_TH/blob/main/%5BSIMSCOLONY%5D%20Basemental%20Thai%202023.package)
 
 # ภายใต้การอนุญาติ 
 
