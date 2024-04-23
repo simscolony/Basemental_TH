@@ -3,12 +3,20 @@
 # Basemental Drag And Gang Thai localization
 Basemental Drag And Gang Thai localization
 
+# รองรับไฟล์ดังนี้
+-Basemental-Drugs-7.17.169-PUBLIC
+-Basemental-Gangs-6.20.59-PUBLIC
+-Basemental-Alcohol-6.8
+-Basemental-Eco-Hacks-2.5
+-Basemental-Gambling-1.4.06
+
+
 | SIMSCOLONY THAI| Basemental |รายละเอียด|
 | ------------- | ------------- | ------------- |
-| Basemental Thai| [แปลไทย Basemental ]()  |แปลไทยอย่างเดียว|
+| Basemental Thai| [แปลไทย Basemental ](https://github.com/simscolony/Basemental_TH/raw/main/%5BSIMSCOLONY%5D%20Basemental%20Thai%202024.package)  |แปลไทยอย่างเดียว|
 
 ดาวโหลดตัวเล่นได้ที่
-[wickedwhimsmod](https://basementalcc.com/)
+[Basemental](https://basementalcc.com/)
 
 
 # หากพบปัญหา แจ้งงานแปล
