@@ -3,7 +3,7 @@
 # Basemental Drag And Gang Thai localization
 Basemental Drag And Gang Thai localization
 
-# รองรับไฟล์ดังนี้
+# รองรับไฟล์ดังนี้ (23 เมษายน 2567)
 * Basemental-Drugs-7.17.169-PUBLIC
 * Basemental-Gangs-6.20.59-PUBLIC
 * Basemental-Alcohol-6.8
