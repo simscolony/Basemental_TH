@@ -10,7 +10,7 @@ Basemental Drag And Gang Thai localization
 ดาวโหลดตัวเล่นได้ที่
 [wickedwhimsmod](https://basementalcc.com/)
 
-BASEMENTAL  
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![Basemental](https://basementalcc.com/wp-content/uploads/2023/09/BMD-Cover-2-1024x1024.png)
 
